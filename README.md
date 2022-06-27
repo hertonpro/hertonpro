@@ -22,9 +22,6 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://www.instagram.com/herton.pro/?hl=fr" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
       <a href="https://wa.me/+253851733108" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -37,18 +34,6 @@
 </div>
 </details>
 
-<details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  
-  <a href="github.com/hertonpro" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/hertonpro/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
-</div>
-</details>
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
