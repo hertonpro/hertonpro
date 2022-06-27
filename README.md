@@ -55,6 +55,6 @@
 </details>
 
 ------
-Credit: [hertonpro](https://github.com/hertonpro)
+Credit: [herton.pro](https://herton.pro)
 Last Edited on: 01/06/2022
 
